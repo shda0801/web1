@@ -1,0 +1,68 @@
+<strong><u></u></strong>
+
+TAG !!
+
+<h1>에 <h6>태그는 HTML 제목을 정의하는 데 사용됩니다.
+
+html new line tag <br> : 줄바꿈
+
+html paragraph tag <p> : 단락
+
+
+<span sytle="font-size:24px">
+  coding
+</span> 보다
+
+<h3>coding<h3> < 검색엔진에 노출 多
+
+<img src="coding.jpg" width="100%">
+src="coding.jpg" width="100%" 는 attribute (속성)
+
+12
+ul - li = parent - child
+ol (ordered list)
+ul (unordered list)
+li (list)
+
+<table>
+  <tr>
+    <td>head</td>
+    <td>98.1%</td>
+  </tr>
+  <tr>
+    <td>body</td>
+    <td>97.9%</td>
+  </tr>
+</table>
+
+
+13강 구조
+<title>
+<meta charset="utf-8"> = character set
+구조
+<html>
+<head>
+<body>
+</body>
+</head>
+</html>
+
+14강 href : hyper reference
+anchor <a> : link
+<a href="https://www.w3.org/TR/html53/" target="_blank" title="html specification">Hypertext Markup Language (HTML)</a>
+
+16강
+Internet 안에
+- ftp
+- WEB
+
+- email..등 이있다.
+internet:web = window : .exe
+internet 1960s -> web 1990s
+
+17강
+              request
+WEB browser   ----->      WEB server
+              <-----
+             response
+ client                     server
