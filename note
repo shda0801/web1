@@ -49,20 +49,26 @@ li (list)
 
 14강 href : hyper reference
 anchor <a> : link
+target="_blank" : 새창으로
 <a href="https://www.w3.org/TR/html53/" target="_blank" title="html specification">Hypertext Markup Language (HTML)</a>
 
 16강
 Internet 안에
 - ftp
 - WEB
-
 - email..등 이있다.
 internet:web = window : .exe
 internet 1960s -> web 1990s
 
-17강
+17강 서버와 클라이언트
               request
 WEB browser   ----->      WEB server
               <-----
              response
  client                     server
+
+18강 웹호스팅 web hosting : gittub page
+https://shda0801.github.io/web1/
+
+WEB1 부록 동영상
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7T7r_oSp0SE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
